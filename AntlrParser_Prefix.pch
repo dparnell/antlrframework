@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AntlrParser' target in the 'AntlrParser' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
